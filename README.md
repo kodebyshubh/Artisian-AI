@@ -2,6 +2,11 @@
 
 A modern full-stack web application that empowers craft enthusiasts and storytellers to create, translate, and share their stories using cutting-edge AI technology. Built with React, Node.js, and Google Cloud AI services.
 
+## 👤 Maintainer
+
+- **Shubh Bohra**: https://github.com/kodebyshubh
+- **Repository**: https://github.com/kodebyshubh/Artisian-AI
+
 ## 🔗 Live Demo
 
 - **Frontend**: [https://artisanai-omega.vercel.app](https://artisanai-omega.vercel.app)
@@ -47,8 +52,8 @@ A modern full-stack web application that empowers craft enthusiasts and storytel
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Jayansh21/ArtisanAi.git
-   cd artisan-ai
+   git clone https://github.com/kodebyshubh/Artisian-AI.git
+   cd Artisian-AI
    ```
 
 2. **Install dependencies**
@@ -156,4 +161,4 @@ artisan-ai/
 
 ---
 
-**Made with ❤️ by [Jayansh Jain](https://github.com/Jayansh21)**
+**Maintained by [Shubh Bohra](https://github.com/kodebyshubh)**
